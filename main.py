@@ -22,4 +22,7 @@ elif opcao == "3":
   print("Saldo:", conta.saldo)
 
 elif opcao == "4":
-  print("Rendimento:", conta.calcula_rendimento()) #Nao lembro se era calcula_rendimento ou calculaRendimento, vo olhar no conta.py assim que der commit e volto pra resolver#
+  print("Rendimento:", conta.calcula_rendimento()) #É calcula_rendimento msm :)#
+
+else:
+  ("Opção invalida, por favor tente novamente.")
