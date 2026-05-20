@@ -5,7 +5,7 @@ class Conta:
   def saca(self, valor):
     self.saldo -= valor 
 
-  def deposite(self, valor):
+  def deposita(self, valor):
     self.saldo += valor 
 
   def calcula_rendimento(self):
@@ -13,7 +13,7 @@ class Conta:
 
 conta = conta()
 
-conta.deposite(100)
+conta.deposita(100)
 
 print(conta.saldo)
 
