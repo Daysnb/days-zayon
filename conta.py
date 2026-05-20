@@ -21,6 +21,6 @@ print(conta.calcula_rendimento())
 
 
 
-codigo mt bom man parabens :)
+#codigo mt bom man parabens :)
 
-obrigado =>
+#obrigado =>
